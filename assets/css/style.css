@@ -582,7 +582,7 @@ h6, .h6, .fz-6 { font-size: 0.94rem; }
 
 .bg-white-22 { background-color: rgba(255, 255, 255, 0.22); }
 
-.bg-theme { background-color: #122272 !important; }
+.bg-theme { background-color: #000000 !important; }
 
 .bg-theme.current { background-color: rgba(18, 34, 114, 0.7) !important; }
 
@@ -3834,7 +3834,7 @@ ul.progress-info { display: flex; justify-content: space-between; }
 .app-slide img { border-radius: 4px; }
 
 /** 04.04 Box */
-.card { padding: 20px; background: #fff; border: none; box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.02); }
+.card { padding: 20px; background: #0a1015; border: none; box-shadow: 0px 0px 50px 0px rgba(0, 0, 0, 0.02); }
 
 .card.card-s3 { padding: 30px 20px; }
 
